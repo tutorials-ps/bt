@@ -1,0 +1,3 @@
+[submodule "tinder-2-yt"]
+	path = tinder-2-yt
+	url = git@github.com:submodules-ps/tinder-2-yt.git
